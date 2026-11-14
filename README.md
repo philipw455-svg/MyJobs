@@ -36,16 +36,18 @@ An open source AI practice partner for math and job interviews.
 - Ships Windows and Mac builds through GitHub Actions.
 - **Stack:** JavaScript, Electron, Claude API, OpenAI-compatible APIs, Groq Whisper.
 
-### Noxi (private)
+### [Noxi](noxi/README.md) · [appnoxi.com](https://appnoxi.com)
+
+<img src="noxi/images/hero.jpg" width="720" alt="Four Noxi app screens">
 
 A private iPhone photo app for friend groups on nights out.
 
 - Random two-minute photo prompts during the night.
 - A morning recap of the night for each group.
-- Live in TestFlight beta testing.
+- Live in TestFlight beta, with 20 builds shipped.
 - **Stack:** Expo (React Native), TypeScript, Supabase, Expo push notifications.
 
-The Noxi source code is private.
+The Noxi source code is private. Read the [Noxi case study](noxi/README.md) or visit [appnoxi.com](https://appnoxi.com).
 
 ## Contact
 
