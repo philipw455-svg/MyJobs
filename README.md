@@ -5,6 +5,22 @@ Disabled U.S. Air Force veteran · AI-assisted developer · Omaha, NE</p>
 
 ---
 
+## Work with me
+
+Want to use AI in your business or daily routine? I build custom tools for people and small businesses.
+
+- **AI assistants** that answer questions from your own documents
+- **Automations** that save time on repeated tasks
+- **Websites and apps**, from idea to launch
+- **Help getting started** with tools like Claude and ChatGPT
+
+Tell me what you need:
+
+- **Email:** [philipw455@icloud.com](mailto:philipw455@icloud.com)
+- **Phone or text:** 813-924-7091
+
+---
+
 ## About
 
 I build AI-powered apps with Claude Code and modern AI APIs.
