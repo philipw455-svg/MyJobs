@@ -14,10 +14,9 @@ Want to use AI in your business or daily routine? I build custom tools for peopl
 - **Websites and apps**, from idea to launch
 - **Help getting started** with tools like Claude and ChatGPT
 
-Tell me what you need:
+<p><a href="https://philipw455-svg.github.io/MyJobs/contact.html"><b>📩 Contact me: fill out the form</b></a></p>
 
-- **Email:** [philipw455@icloud.com](mailto:philipw455@icloud.com)
-- **Phone or text:** 813-924-7091
+Or email [philipw455@icloud.com](mailto:philipw455@icloud.com) · Phone or text 813-924-7091
 
 ---
 
