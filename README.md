@@ -16,8 +16,6 @@ Want to use AI in your business or daily routine? I build custom tools for peopl
 
 <p><a href="https://philipw455-svg.github.io/MyJobs/contact.html"><b>📩 Contact me: fill out the form</b></a></p>
 
-Or email [philipw455@icloud.com](mailto:philipw455@icloud.com) · Phone or text 813-924-7091
-
 ---
 
 ## About
